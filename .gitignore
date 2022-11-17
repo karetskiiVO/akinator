@@ -35,4 +35,6 @@
 *.dot
 *akinator
 *.akt
+*.bk
+*.txt
 *makefile

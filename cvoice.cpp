@@ -5,7 +5,7 @@
 bool voicesolo = true;
 
 void voiceSay (const char* phrase) {
-    if (voicesolo = false) {
+    if (voicesolo == false) {
         return;
     }
 }
